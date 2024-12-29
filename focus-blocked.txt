@@ -1,0 +1,8 @@
+! Title: Jacob's Focused Blocklist
+! Last updated: Dec 9 2024
+
+||reddit.com^
+||tiktokv.us^
+||youtube.com^
+||instagram.com^
+||facebook.com^
