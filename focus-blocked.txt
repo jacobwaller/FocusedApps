@@ -2,6 +2,7 @@
 ! Last updated: Dec 9 2024
 
 ||reddit.com^
+||tiktokv.us^
 ||tiktokv.com^
 ||tiktokcdn.com^
 ||byteoversea.net^
